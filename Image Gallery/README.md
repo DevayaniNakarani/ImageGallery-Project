@@ -1,18 +1,36 @@
-## Getting Started
+# 🖼️ Image Gallery Project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A responsive and interactive image gallery built using HTML, CSS, and JavaScript. It features different sections like **Nature** and **Animals**, and includes a preview lightbox with navigation.
 
-## Folder Structure
+## 🔥 Features
 
-The workspace contains two folders by default, where:
+- Preview images in full screen
+- Next and previous navigation
+- Close button
+- Category sections (Nature, Animals)
+- Responsive layout
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🛠️ Tech Used
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 📂 Folder Structure
 
-## Dependency Management
+ImageGallery/
+├── index.html  
+├── style/  
+│   └── style.css  
+├── script/  
+│   └── script.js  
+├── images/  
+│   ├── nature/ (add your nature images here)  
+│   └── animals/ (add your animal images here)  
+└── README.md
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+## 👩‍💻 Author
+
+**Devayani Nakarani**  
+[Visit My Portfolio](https://devayani-portfolio.netlify.app)
