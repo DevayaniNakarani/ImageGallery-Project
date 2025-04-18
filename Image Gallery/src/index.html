@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Image Gallery</title>
+  <link rel="stylesheet" href="style/style.css" />
+</head>
+<body>
+
+  <div class="gallery">
+    <img src="images/img1.jpg" class="thumbnail" alt="Image 1" />
+    <img src="images/img2.jpg" class="thumbnail" alt="Image 2" />
+    <img src="images/img3.jpg" class="thumbnail" alt="Image 3" />
+    <img src="images/img4.jpg" class="thumbnail" alt="Image 4" />
+    <img src="images/img5.jpg" class="thumbnail" alt="Image 5" />
+    <!-- Add more images -->
+  </div>
+
+  <div class="preview-box" id="previewBox">
+    <span class="close" id="closeBtn">&times;</span>
+    <img src="" alt="Preview" id="previewImg">
+    <div class="navigation">
+      <button id="prevBtn">⟨</button>
+      <button id="nextBtn">⟩</button>
+    </div>
+  </div>
+
+  <script src="script/script.js"></script>
+</body>
+</html>
