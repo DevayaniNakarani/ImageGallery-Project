@@ -25,8 +25,8 @@ ImageGallery/
 ├── script/  
 │   └── script.js  
 ├── images/  
-│   ├── nature/ (add your nature images here)  
-│   └── animals/ (add your animal images here)  
+│   ├── nature/ (nature images)  
+│   └── animals/ (animal images)  
 └── README.md
 
 
