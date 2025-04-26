@@ -61,7 +61,7 @@ ImageGallery/
 
 ## 📸 Screenshots
 
-🔗 ![Gallery Look](src\images\demo1.png)
+![Gallery Look](src\images\demo1.png)
 
 
 
