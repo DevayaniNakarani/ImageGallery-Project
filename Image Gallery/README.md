@@ -31,7 +31,7 @@ It features beautiful sections like **Nature** and **Animals**, and includes a s
 
 ## 📂 Folder Structure
 
-
+```
 ImageGallery/
 ├── index.html
 ├── README.md
@@ -47,7 +47,7 @@ ImageGallery/
 │   └── style.css
 ├── js/
 │   └── script.js
-
+```
 
 ---
 
